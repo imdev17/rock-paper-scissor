@@ -47,7 +47,6 @@ After completing the first version, I developed a more **optimized and interacti
 - **Language**: Python
 - **Modules Used**:
   - `random` – for generating the computer's choice
-  - `time` *(optional)* – to add delays for a smoother UX
 
 ---
 

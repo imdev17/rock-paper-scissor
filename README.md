@@ -51,15 +51,6 @@ After completing the first version, I developed a more **optimized and interacti
 
 ---
 
-## 🚀 Future Improvements
-
-- Add a GUI using `Tkinter` or `Pygame`
-- Add sound effects and animations
-- Include a leaderboard or high score tracking system
-- Extend to a multiplayer version
-
----
-
 ## 📌 Summary
 
 This project helped me strengthen my understanding of Python fundamentals and game logic. It marks a key step in my learning journey and demonstrates how practice and continuous improvement can lead to better coding practices.

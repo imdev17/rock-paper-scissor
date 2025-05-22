@@ -54,6 +54,5 @@ while True:
     elif play == "n":
         print("Game Over")
         break
-    print( "Your Score: ", user_pts , "& Computer Score: ", computer_pts)
 
 print( "Your Score: ", user_pts , "& Computer Score: ", computer_pts)

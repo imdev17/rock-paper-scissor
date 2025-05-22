@@ -16,7 +16,7 @@ The first version was my **initial attempt**, where I focused on understanding a
 
 ## 🔹 Version 2 – Enhanced and Optimized
 
-After completing the first version, I developed a more **optimized and interactive** version using knowledge and inspiration gathered from the **internet** and online programming communities.
+After completing the first version, I developed a more **optimized and interactive** version using knowledge and inspiration gathered from the **internet** and online programming channels.
 
 ### 🆕 Features:
 - 🎮 **10-Round Gameplay**: The player competes against a computer bot over 10 rounds
